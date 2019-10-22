@@ -1,0 +1,6 @@
+C:\Users\estudiantes\source\repos\WcfRestarService\WcfRestarService\bin\WcfRestarService.dll.config
+C:\Users\estudiantes\source\repos\WcfRestarService\WcfRestarService\bin\WcfRestarService.dll
+C:\Users\estudiantes\source\repos\WcfRestarService\WcfRestarService\bin\WcfRestarService.pdb
+C:\Users\estudiantes\source\repos\WcfRestarService\WcfRestarService\obj\Debug\WcfRestarService.csproj.CoreCompileInputs.cache
+C:\Users\estudiantes\source\repos\WcfRestarService\WcfRestarService\obj\Debug\WcfRestarService.dll
+C:\Users\estudiantes\source\repos\WcfRestarService\WcfRestarService\obj\Debug\WcfRestarService.pdb

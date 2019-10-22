@@ -1,0 +1,6 @@
+C:\Users\estudiantes\source\repos\WcfDividirService\WcfDividirService\bin\WcfDividirService.dll.config
+C:\Users\estudiantes\source\repos\WcfDividirService\WcfDividirService\bin\WcfDividirService.dll
+C:\Users\estudiantes\source\repos\WcfDividirService\WcfDividirService\bin\WcfDividirService.pdb
+C:\Users\estudiantes\source\repos\WcfDividirService\WcfDividirService\obj\Debug\WcfDividirService.csproj.CoreCompileInputs.cache
+C:\Users\estudiantes\source\repos\WcfDividirService\WcfDividirService\obj\Debug\WcfDividirService.dll
+C:\Users\estudiantes\source\repos\WcfDividirService\WcfDividirService\obj\Debug\WcfDividirService.pdb

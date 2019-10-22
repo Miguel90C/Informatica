@@ -1,0 +1,6 @@
+C:\Users\estudiantes\source\repos\WcfMultiplicarService\WcfMultiplicarService\bin\WcfMultiplicarService.dll.config
+C:\Users\estudiantes\source\repos\WcfMultiplicarService\WcfMultiplicarService\bin\WcfMultiplicarService.dll
+C:\Users\estudiantes\source\repos\WcfMultiplicarService\WcfMultiplicarService\bin\WcfMultiplicarService.pdb
+C:\Users\estudiantes\source\repos\WcfMultiplicarService\WcfMultiplicarService\obj\Debug\WcfMultiplicarService.csproj.CoreCompileInputs.cache
+C:\Users\estudiantes\source\repos\WcfMultiplicarService\WcfMultiplicarService\obj\Debug\WcfMultiplicarService.dll
+C:\Users\estudiantes\source\repos\WcfMultiplicarService\WcfMultiplicarService\obj\Debug\WcfMultiplicarService.pdb

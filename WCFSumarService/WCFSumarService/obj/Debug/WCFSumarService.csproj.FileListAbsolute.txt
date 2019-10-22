@@ -1,0 +1,7 @@
+C:\Users\estudiantes\source\repos\WCFSumarService\WCFSumarService\bin\WCFSumarService.dll.config
+C:\Users\estudiantes\source\repos\WCFSumarService\WCFSumarService\bin\WCFSumarService.dll
+C:\Users\estudiantes\source\repos\WCFSumarService\WCFSumarService\bin\WCFSumarService.pdb
+C:\Users\estudiantes\source\repos\WCFSumarService\WCFSumarService\obj\Debug\WCFSumarService.csprojAssemblyReference.cache
+C:\Users\estudiantes\source\repos\WCFSumarService\WCFSumarService\obj\Debug\WCFSumarService.csproj.CoreCompileInputs.cache
+C:\Users\estudiantes\source\repos\WCFSumarService\WCFSumarService\obj\Debug\WCFSumarService.dll
+C:\Users\estudiantes\source\repos\WCFSumarService\WCFSumarService\obj\Debug\WCFSumarService.pdb
